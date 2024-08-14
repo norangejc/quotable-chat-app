@@ -1,0 +1,19 @@
+.chats {
+  padding: 0px;
+  height: 100vh;
+  overflow-x: scroll;
+}
+.title {
+  padding: 2%;
+  font-size: 18px;
+  color: deepskyblue;
+  font-weight: bold;
+}
+.message {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  color: deepskyblue;
+  font-weight: bolder;
+  margin-top: 20%;
+}
